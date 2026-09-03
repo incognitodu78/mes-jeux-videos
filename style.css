@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.jeu {
+    background: #222;
+    padding: 25px;
+    width: 250px;
+    border-radius: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
