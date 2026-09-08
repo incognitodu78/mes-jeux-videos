@@ -30,3 +30,9 @@ button {
     border-radius: 8px;
     cursor: pointer;
 }
+
+.button-back {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
